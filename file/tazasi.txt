@@ -1,0 +1,827 @@
+
+
+
+Bir xil tipdagi elementlar majmuasi
+#Massiv
+Yozuv
+Jadval
+To’plam
+
+
+
++++++
+
+Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …
+#Daraxt
+Graf
+Lug’at
+Ro’yxat
+
+
+
++++++
+
+
+
+35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxt balandligi nechaga teng
+#3
+4
+2
+1
+
+
+
++++++
+
+Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?
+#0
+1
+-1
+66
+
+
+
++++++
+
+
+
+Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?
+#Stek, Dek, Navbat
+Stek, Massiv
+Graf. Vektor
+Yozuv, Jadval
+
+
+
++++++
+
+
+
+... – bu boshi va oxiri tutashuvchi tugundan iborat yo’l.
+#Halqa
+Yo’l
+Ilmoq
+Daraja
+
+
+
++++++
+
+
+
+Faylning ma’lumotlar tarkibini va dasturiy ta’minotini aniqlovchi ko’rsatkich
+#Kengaytma
+Ism
+Atribut
+Yo’l
+
+
++++++
+
+
+
+Shartli operator if tanasi qachon bajariladi?
+#rost (true)
+yolg’on (false)
+Doimo bajariladi
+Hyech qachon bajarilmaydi
+
+
+
++++++
+
+
+
+Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni qabul qilishini ko’rsatadi?
+#unsigned
+positive
+extern
+signed
+
+
+
++++++
+
+
+
+Algoritm nima?
+#amallar ketma-ketligi
+Fayllarga murojaat
+Obyektlar majmuasini ifodalash
+To’plam elementlarini ifodalash
+
+
+
++++++
+
+
+
+C++ tilida tuzilmani yaratish uchun ishlatiladigan kalit so’zi
+#struct
+structure
+record
+object
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmasi nima
+#bu ma’lumot elementlari va ular orasidagi munosabatlar majmuasi
+bu ma’lumot elementlari majmuasi
+bu elementlar orasidagi munosabatlar amali
+bu ma’lumot elementlari va ular orasidagi relyasion munosabatlar majmuasi
+
+
+
++++++
+
+
+
+Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?
+#1
+0
+-1
+66
+
+
+
++++++
+
+
+INT turi uchun qaysi amallar o’rinli
+#qo’shish, ayirish, butun sonli bo’lish, qoldiqli bo’lish
+qo’shish, ayirish, bo’lish, mod, konkatenasiya
+ko’paytirish, ayirish, konkatenasiya
+ko’paytirish, ayirish, div, konkatenasiya
+
+
+
++++++
+
+
+
+FLOAT turi uchun qaysi amallar o’rinli
+#qo’shish, ayrish, ko’paytirish, bo’lish
+qo’shish, ayrish, bo’lish, mod
+ko’paytirish, ayrish, konkatenasiya
+qo’shish, ayrish, div, mod
+
+
+
++++++
+
+
+
+Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar massiv o’lchami 19 teng bo’lsa?
+#18
+19
+tartib raqami dasturchi aniqlaydi
+tartib raqami cheksiz bo’ladi
+
+
+
++++++
+
+
+
+Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan iborat?
+#3
+4
+5
+6
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmasi matematik bosqichda ...
+#konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.
+kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.
+dasturni yaratish jarayoni tadqiq qilinadi.
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga klassifikasiyalanadi
+#Chiziqli va chiziqsiz
+Statik, yarimstatik va dinamik
+Bog’lamli va bog’lamsiz
+Oddiy va murakkab
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmasi mantiqiy bosqichda ...
+#berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.
+kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.
+dasturni yaratish jarayoni tadqiq qilinadi.
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmasi fizik bosqichda ...
+#kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.
+berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.
+dasturni yaratish jarayoni tadqiq qilinadi.
+
+
+
++++++
+
+
+
+Bir xil tipdagi o’zaro takrorlanmaydigan elementlardan iborat majmua
+#To’plam
+Massiv
+Yozuv
+Jadval
+
+
+
++++++
+
+
+
+Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?
+#Yozuv
+Massiv
+To’plam
+Jadval
+
+
+
++++++
+
+
+
+Turli tipdagi ma’lumot maydonlardan iborat tartibli tuzilmasi
+#Jadval
+Massiv
+Yozuv
+To’plam
+
+
+
++++++
+
+
+
+Xotirani dinamik ajratish uchun kalit so’zini ko’rsating
+#new
+create
+make
+value
+
+
+
++++++
+
+
+
+Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating
+#delete
+clear
+free
+cls
+
+
+
++++++
+
+
+
+Stekdan yuqori elementini o’qitib olish funksiyasi qanday belgilanadi
+#Top
+Pop
+Push
+Empty
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga klassifikasiyalanadi
+#Bog’lamli va bog’lamsiz
+Statik, yarimstatik va dinamik
+Chiziqli va chiziqsiz
+Oddiy va murakkab
+
+
+
++++++
+
+
+
+Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur bajarilishi jarayoniga ko’ra qo’yidagilarga klassifikasiyalanadi
+#Statik, yarimstatik va dinamik
+Chiziqli va chiziqsiz
+Bog’lamli va bog’lamsiz
+Oddiy va murakkab
+
+
+
++++++
+
+
+
+Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash qulay
+#bog’langan chiziqsiz ro’yxatlar
+massivlar
+jadvallar
+bog’langan chiziqli ro’yxatlar
+
+
+
++++++
+
+
+
+Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va asosiy tuzilma to’plamlariga ... deyiladi.
+#Statik ma’lumotlar tuzilmasi
+Dinamik ma’lumotlar tuzilmasi
+Yarimstatik ma’lumotlar tuzilmasi
+Rekursiv ma’lumotlar tuzilmasi
+
+
+
++++++
+
+
+
+Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?
+#LIFO
+FIFO
+FILO
+LILO
+
+
+
++++++
+
+
+
+Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?
+#FIFO
+LIFO
+FILO
+LILO
+
+
+
++++++
+
+
+
+Stekga yangi element qushish funksiyasi qanday belgilanadi
+#Push
+Pop
+Top
+Empty
+
+
+
++++++
+
+
+
+Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi
+#Pop
+Push
+Top
+Empty
+
+
+
++++++
+
+
+
+Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va deskriptor-ko’rsatkich orqali foydalanilgan tuzilma to’plamlariga ... deyiladi.
+#Yarimstatik ma’lumotlar tuzilmasi
+Statik ma’lumotlar tuzilmasi
+Dinamik ma’lumotlar tuzilmasi
+Rekursiv ma’lumotlar tuzilmasi
+
+
+
++++++
+
+
+
+Stek bu ...
+#chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi
+shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi
+
+
+
++++++
+
+
+
+Navbat bu...
+#shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi
+
+
+
++++++
+
+
+
+Daraxt uzunligi – bu ...
+#tugunlar soni
+daraxt bosqichlari soni
+oraliq elementlari soni
+barglar soni
+
+
+
++++++
+
+
+
+Dek bu ...
+#chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi
+shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi
+chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi
+
+
+
++++++
+
+
+
+Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi
+#NULL
+NaN
+ERROR
+EMP
+
+
+
++++++
+
+
+
+Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi
+#1
+2
+3
+4
+
+
+
++++++
+
+
+
+Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi
+#2
+1
+3
+4
+
+
+
++++++
+
+
+
+Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning soni ma’lum bo’lishi tuzilma to’plamlariga ... deyiladi.
+#Dinamik ma’lumotlar tuzilmasi
+Statik ma’lumotlar tuzilmasi
+Yarimstatik ma’lumotlar tuzilmasi
+Rekursiv ma’lumotlar tuzilmasi
+
+
+
++++++
+
+
+
+Bir bog’lamli ro’yxatlarda Next ko’rsatkichi nima uchun ishlatiladi
+#Keyingi elementni ko’rsatish uchun
+Oldingi elementni ko’rsatish uchun
+Ro’yxatning boshini ko’rsatish uchun
+Ro’yxatning oxirini ko’rsatish uchun
+
+
+
++++++
+
+
+
+Ikki bog’lamli ro’yxatlarda Next va Prev ko’rsatkichlari nima uchun ishlatiladi
+#Keyingi va oldingi elementlarini ko’rsatish uchun
+Faqat oldingi va undan keyingi elementlarini ko’rsatish uchun
+Ro’yxatning boshini ko’rsatish uchun
+Ro’yxatning oxirini ko’rsatish uchun
+
+
+
++++++
+
+
+
+Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha xarakatlanish mumkin?
+#ikkala
+chapga
+o’nga
+ro’yxat oxiriga
+
+
+
++++++
+
+
+
+… - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.
+#Rekursiya
+Algoritm
+Dastur
+Tuzilma
+
+
+
++++++
+
+
+
+Minimal balandlikka ega daraxt
+#HEAP TREE
+BINARY TREE
+Red Black Tree
+2-3 TREE
+
+
+
++++++
+
+
+
+Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan oshmasa.
+#Binar
+Ternar
+Tetradli
+Ko’pqatlamli
+
+
+
++++++
+
+
+
+Bironta tugundan boshqa bir tugungacha bo’lgan yonma-yon joylashgan tugunlar ketma-ketligidir bu - ... deyiladi.
+#Yo’l
+Halqa
+Ilmoq
+Daraja
+
+
+
++++++
+
+
+
+Qidiruvni vazifasi nimadan iborat
+#berilgan argumentga mos keluvchi ma’lumotlarni massiv ichidan topish
+massivda ma’lumot yo’qligini aniqlash
+ma’lumotlar yordamida argumentni topish
+ma’lumot yordamida eng kichik elementni topish
+
+
+
++++++
+
+
+
+Berilgan argumentga mos keluvchi ma’lumotlarni massiv ichidan topish
+#Qidiruv
+Saralash
+Algoritmlash
+Uslubiyot
+
+
+
++++++
+
+
+
+Chiziqli qidiruv g’oyasi nimadan iborat
+#har bir element ketma-ket ko’rib chiqiladi
+elementlar ketma-ket jadval o’rtasidan boshlab ko’rib chiqiladi
+elementlarni ko’rib chiqish ketma-ket ravishda boshidan oxirigacha va aksincha, 2 ta element tashlab qaraladi
+binar daraxt barcha tugunlari ko’rib chiqiladi
+
+
+
++++++
+
+
+
+Noyob kalit nima
+#agar jadvalda kaliti mazkur kalitga teng ma’lumot yagona bo’lsa
+agar ikkita ma’lumot qiymatlari yig’indisi kalitga teng bo’lsa
+agar jadvalda bunday kalitli element mavjud bo’lmasa
+agar ikkita ma’lumot qiymatlari farqi kalitga teng bo’lsa
+
+
+
++++++
+
+
+
+Ketma-ket qidiruv algoritm tartibi qanday
+#Chiziqli
+Logarifmik
+Konstantali
+Eksponensial
+
+
+
++++++
+
+
+
+Binar qidiruv algoritm tartibi qanday
+#Logarifmik
+Chiziqli
+Konstantali
+Eksponensial
+
+
+
++++++
+
+
+
+Chiziqli qidiruv qachon samarali
+#massiv va ro’yxatda
+dekda
+daraxtda
+navbatda
+
+
+
++++++
+
+
+
+Ketma-ket yoki chiziqli qidiruv – bu …
+#Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi
+Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi
+Berilgan massiv o’rtasidagi element olinadi, ya’ni , va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi
+Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi
+
+
+
++++++
+
+
+mass[] ko‘rinishida massiv e’lon qilinganda, uning yettinchi elementiga murojaat qanday amalga oshiriladi?==
+#mas[6];==
+mas[7];==
+mas(7);==
+mas(6);
+
++++++
+
+
+
+Binar qidiruv – bu …
+#Berilgan massiv o’rtasidagi element olinadi, ya’ni , va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi
+Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi
+Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi
+Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi
+
+
+
++++++
+
+
+
+Xeshlash – bu …
+#Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi
+Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi
+Berilgan massiv o’rtasidagi element olinadi, ya’ni , va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi
+Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi
+
+
+
++++++
+
+
+
+Operativ xotirada bajariladigan saralash qanday ataladi
+#ichki saralash
+to’liq saralash
+qo’shish orqali saralash
+adreslar jadvalini saralash
+
+
+
++++++
+
+
+
+Saralash usullari orasidan noto’g’risini toping.
+#dinamik
+yaxshilangan
+logarifmik
+qat’iy
+
+
+
++++++
+
+
+
+Berilgan to’plam elementlarini biror bir tartibda joylashtirish jarayoni
+#Saralash
+Qidiruv
+Algoritmlash
+Uslubiyot
+
+
+
++++++
+
+
+
+Saralash usuli … deyiladi, agar saralash jarayonida bir hil kalitli elementlar nisbiy joylashuvi o’zgarmasa
+#Turg’un (stable)
+Murakkab (difficult)
+Oddiy (typical)
+Turg’un emas (unstable)
+
+
+
++++++
+
+
+
+QuickSort usulining algoritm tartibini ko’rsating
+#Logarifmik
+Chiziqli
+Kvadratik
+Differensial
+
+
+
++++++
+
+
+
+Saralash samaradorligini qaysi mezonlar yordamida aniqlanadi
+#taqqoslashlar va almashtirishlar soni
+dastur yozishga ketgan vaqt
+ishlatilayotgan identifikatorlar soni va turlari
+amallar soni
+
+
+
++++++
+
+
+
+Bu ismga ega obyekt bo’lib, shu ism orqali ichidagi ma’lumotlar bilan ishlovchi obyektdir.
+#Fayl
+Katalog
+Xotira
+Ma’lumot tashuvchi
+
+
+
++++++
+
+
+
+Faylni aniqlovchi bir nechta ketma-ket bilgilar faylning ...
+#Ismi
+Kengaytmasi
+Atributi
+Yo’li
