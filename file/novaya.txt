@@ -1,0 +1,642 @@
+
+C++ tilinde maǵlıwmatlardı kiritiw
+#cin>>x;
+cinx;
+cout
++++++
+
+FLOAT túri ushın qaysı ámeller orınlı
+#qosıw, alıw, kóbeytiw, bóliw
+qosıw, alıw, bóliw, mod
+kóbeytiw, alıw, konkatenasiya
+qosıw, alıw, div, mod
+
++++++
+
+Algoritm ne?
+#Ámeller izbe-izligi
+Fayllarǵa shaqırıq
+Obiektler kompleksin ańlatıw
+Kóplik elementlerin ańlatıw
+
++++++
+
+C++ tilinde strukturanı jaratıw ushın isletiletuǵın gilt sózi
+# Struct
+Structure
+Record
+Object
+
++++++
+INT túri ushın qaysı ámeller orınlı
+#qosıw, alıw, pútin san bolıw, qaldıqlı bólıw
+qosıw, alıw, bolıw, mod, konkatenasiya
+kóbeytiw, alıw, konkatenasiya
+kóbeytiw, alıw, div, konkatenasiya
+
++++++
+
+Maǵlıwmatlar strukturası ne
+# bul maǵlıwmat elementleri hám olar arasındaǵı munasábetler kompleksi
+bul maǵlıwmat elementleri kompleksi
+bul elementler arasındaǵı munasábetler ámeli
+bul maǵlıwmat elementleri hám olar arasındaǵı relyasion munasábetler kompleksi
+
++++++
+
+Qaysı biri true gilt sózine sáykes ma`nisti anıqlaydı?
+#1
+0
+-1
+66
+
++++++
+
+Qaysı biri false sózine sáykes ma`nisti anıqlaydı??
+#0
+1
+-1
+66
+
++++++
+
+Shártli operator if denesi qashan atqarıladı?
+# ras (true)
+Jalǵan(false)
+Bárqulla atqarıladı
+Hech qashan atqarılmaydı
+
++++++
+
+Qaysı gilt sóz pútin sanlı ózgeriwshi tek oń mánisti qabıllawın kórsetedi?
+#unsigned
+Positive
+Extern
+Signed
+
++++++
+
+Massivtıń aqırǵı elemenning tártip nomeri nege teń boladı, eger massiv ólshemi 19 ǵa teń bolsa?
+#18
+19
+tártip nomerin programmist anıqlaydı
+tártip nomeri sheksiz boladı
+
++++++
+
+Maǵlıwmatlardı kompyuter yadında sáwlelendiriw neshe basqıshtan ibarat?
+#3
+4
+5
+6
+
++++++
+
+Maǵlıwmatlar strukturası matematikalıq basqıshta...
+#konkret obiekttiń qayta islew, olardıń ózgeshelikleri hám munasábetlerin izertlenedi.
+kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.
+berilgen talaplar boyınsha algoritmdı islep shıǵilıwı izertlenedi.
+programmanı jaratıw procesi izertlenedi.
+
++++++
+
+Maǵlıwmatlar strukturası logikalıq basqıshta...
+#berilgen talaplar boyınsha algoritmdı islep shıǵilıwı izertlenedi.
+kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.
+konkret obiekttiń qayta islew, olardıń xussusiyatlari hám munasábetlerin izertlenedi.
+programmanı jaratıw procesi izertlenedi.
+
++++++
+
+C++ tilinde maǵlıwmatlardı shıǵarıw
+#coutx;
+cout>>x;
+cin
++++++
+
+Maǵlıwmatlar strukturası fizikalıq basqıshta...
+#Kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.
+konkret obiekttiń qayta islew, olardıń xussusiyatlari hám munasábetlerin izertlenedi.
+berilgen studentler boyınsha algoritmdı islep shıǵilıwı izertlenedi.
+programmanı jaratıw procesi izertlenedi.
+
++++++
+
+Birdey tipdagi óz-ara tákirarlanbaytuǵın elementlerden ibarat kompeksi
+# Kóplik
+Massiv
+Jazıw
+Keste
+
++++++
+
+Birdey tiptegi elementler kompleksi
+# Massiv
+Jazıw
+Keste
+Kóplik
+
++++++
+
+Túrli tipdagi maǵlıwmatlardan qanday struktura payda etiledi?
+# Jazıw
+Massiv
+Kóplik
+Keste
+
++++++
+
+Túrli tipdagi maǵlıwmat maydanlardan ibarat tártipli strukturası
+# Keste
+Massiv
+Jazıw
+Kóplik
+
++++++
+
+Yadtı dinamikalıq ajratiw uchın gilt sózdi kórsetiń
+#New
+Create
+Make
+Value
+
++++++
+
+Dinamik yadtı bosatiw ushun gilt so’zdi kórsetiń
+#Delete
+Clear
+Free
+Cls
+
++++++
+
+kórinisinde massiv járiyalanǵanda, onıń jetinshi elementine shaqırıw qalay ámelge asıriladı?
+#mas[6];
+mas[7];
+mas(7);
+mas(6);
+
++++++
+
+Maǵlıwmatlar strukturaları baylanısıwına kóre tómendegishe klassifikasiyalanadi
+# Baylamlı hám baylamsız
+Statikalıq, yarımstatikliq hám dinamikalıq
+Sızıqlı hám sızıqli emes
+Ápiwayı hám quramalı
+
++++++
+
+Maǵlıwmatlar strukturaları waqıt ózgeriwsheńligi yamasa programma atqarılıwı procesine kóre tómendegishe klassifikasiyalanadi
+# Statikalıq, yarımstatikliq hám dinamikalıq
+Sızıqlı hám sızıqlı emes
+Baylamlı hám baylamsız
+Ápiwayı hám quramalı
+
++++++
+
+Maǵlıwmatlar strukturaları rejimine kóre tómendegishe klassifikasiyalanadi
+# Sızıqlı hám sızıqsız
+Statikalıq, yarımstatikalıq hám dinamikalıq
+Baylamlı hám baylamsız
+Ápiwayı hám quramalı
+
++++++
+
+Programma orınlanıw processinde yad kolemi birdey bolǵan ápiwayı hám tiykarǵı struktura jıynaqlarına... dep ataladı.
+# Statikalıq maǵlıwmatlar strukturası
+Dinamikalıq maǵlıwmatlar strukturası
+Yarımstatik maǵlıwmatlar strukturası
+Rekursiv maǵlıwmatlar strukturası
+
++++++
+
+Ańlatpanıń bıytlar ústindegi ámel nátiyjesin anıqlań
+#8
+6
+14
+1
+
++++++
+
+Stek strukturasında qanday xizmat kórsetiw túri qollaniladi?
+#LIFO
+FIFO
+FILO
+LILO
+
++++++
+
+Nawbet strukturasinda qanday xizmet ko’rsetiw tu’ri qollaniladi?
+#FIFO
+LIFO
+FILO
+LILO
+
++++++
+
+Stekqa jan’a element qosiw funksiyasi qanday belgilenedi
+#Push
+Pop
+Top
+Empty
+
++++++
+
+Stekdan joqarı elementin óshiriw funksiyası qanday belgilenedi
+#Pop
+Push
+Top
+Empty
+
++++++
+
+Yarımstatik maǵlıwmatlar strukturasına neler kiredi?
+#Stek, Dek, Nawbet
+Stek, Massiv
+Graf. Vektor
+String, Keste
+
++++++
+
+Listti massivten artiqmashliǵin kórsetiń
+#Listtin’ uzinlig’ina shegara belgilenbeydi
+Olar arasinda sezilarli parq joq
+List elementleri tu’rli tipte boliwi mu’mkin
+List elementleri int tipinde boliwi kerek
+
++++++
+
+Programma atqarılıw processinde yad kolemi anıqlanǵan yamasa olardıń sanı málim bolǵan struktura ... dep ataladı.
+#Dinamikalıq maǵlıwmatlar strukturası
+Statikalıq maǵlıwmatlar strukturası
+Yarımstatik maǵlıwmatlar strukturası
+Rekursiv maǵlıwmatlar strukturası
+
++++++
+
+Ańlatpanıń bitlar ústindegi ámel nátiyjesin anıqlań
+#6
+14
+8
+1
+
++++++
+
+Programma fragmentiniń nátiyjesin anıqlań :
+#6
+10
+0
+250
+
++++++
+
+Programma fragmentiniń nátiyjesin anıqlań :
+#1000
+10
+0
+250
+
++++++
+
+Programma fragmentiniń nátiyjesin anıqlań:
+#12
+13,2
+1,47
+1
+
++++++
+
+Programma fragmentiniń nátiyjesin anıqlań:
+#13,2
+12
+1,47
+1
+
++++++
+
+Programma atqarılıw processinde yad ko’lemi statikalıq belgilenedi hám deskriptor-kórsetkish arqalı paydalanılǵan struktura toplamina... dep ataladı.
+#Yarımstatik maǵlıwmatlar strukturası
+Statikalıq maǵlıwmatlar strukturası
+Dinamikalıq maǵlıwmatlar strukturası
+Rekursiv maǵlıwmatlar strukturası
+
++++++
+
+Stek bul ...
+#Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń bir tárepinen ámelge asıriladı
+Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı
+
++++++
+
+Na’wbet bu...
+#Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń bir tárepinen ámelge asıriladı
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı
+
++++++
+
+Dek bul ...
+#Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı
+Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi
+Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi
+Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı
+
++++++
+
+Qanday gilt sózi járdeminde nol silteme (bos mánzil) belgilenedi
+#NULL
+NaN
+ERROR
+EMP
+
++++++
+
+Bir baylamlı dizimde neshe kórsetkishten paydalanıladı
+#1
+2
+3
+4
+
++++++
+
+Eki baylamlı dizimde neshe kórsetkishten paydalanıladı
+#2
+1
+3
+4
+
++++++
+
+Bir baylamlı dizimlerde Next kórsetkishi ne ushın isletiledi
+#Keyingi elementti kórsetiw ushın
+Aldınǵı elementti kórsetiw ushın
+Dizimdiń basın kórsetiw ushın
+Dizimdiń aqırın kórsetiw ushın
+
++++++
+
+Eki baylamlı dizimlerde Next hám Prev kórsetkishleri ne ushın isletiledi
+#Keyingi hám aldınǵı elementlerin kórsetiw ushın
+Tek aldınǵı hám odan keyingi elementlerin kórsetiw ushın
+Dizimdiń basın kórsetiw ushın
+Dizimdiń aqırın kórsetiw ushın
+
++++++
+
+Shen’ber ta’rizli eki jónelisli dizimde qaysı jónelisler boyınsha háreketleniw múmkin?
+#Eki ta’repleme
+Shepke
+On’g’a
+Dizim aqirina
+
++++++
+
+… - obyektti usı obiektke shaqırıw arqalı anıqlaw bolıp tabıladı.
+#Rekursiya
+Algoritm
+Programma
+Struktura
+
++++++
+
+Minimal biyiklikke iye terek
+#HEAP TREE
+BINARY TREE
+Red Black Tree
+2-3 TREE
+
++++++
+
+Terek qanday ataladı, eger onıń shıǵıw dárejesi ekiden aspasa.
+#Binar
+Ternar
+Tetradli
+Kópqatlamlı
+
++++++
+
+Kompyuter yadında binar terekti qanday kóriniste sawlelendiriw qolay
+#baylanǵan sızıqsız dizimler
+Massivler
+Kesteler
+baylanǵan sızıqlı dizimler
+
++++++
+
+Terek uzunlıǵı – bul ...
+# túyinler sanı
+terek basqıshları sanı
+aralıq elementleri sanı
+japıraqlar sanı
+
++++++
+
+Sıziqlı emes iyerarxik baylanǵan maǵlıwmatlar strukturası – bul …
+#Terek
+Graf
+Sózlik
+Dizim
+
++++++
+
+35, 27, 5,78, 29, 43 Sanlarınan payda etilgen binar terek bálentligi neshege teń
+#3
+4
+2
+1
+
++++++
+
+Qandayda bir túyinnen basqa bir túyinge shekem bolg’an qasında jaylasqan túyinler izbe-izligi bolıp tabıladı bul -... dep ataladı.
+#Jol
+Dońgelek
+ilmek (petley)
+Dáreje
+
++++++
+
+... – bul bası hám aqırı tutasıwshı túyinnen ibarat jol.
+#Dońgelek
+Jol
+Ilmek (petley)
+Dáreje
+
++++++
+
+Izlewdıń wazıypası neden ibarat
+# berilgen argumentga saykes keliwshi maǵlıwmatlardı massiv ishinen tabıw
+massivte maǵlıwmat joq ekenligin anıqlaw
+maǵlıwmatlar járdeminde argumentni tabıw
+maǵlıwmat járdeminde eń kishi elementti tabıw
+
++++++
+
+Berilgen argumentga sáykes keliwshi maǵlıwmatlardı massiv ishinen tabıw
+# Izlew
+Sotrirovkalaw
+Algoritmlaw
+Stilistika
+
++++++
+
+Sızıqlı izlew ideyası neden ibarat
+# hár bir element izbe-iz kórip shıǵıladı
+elementler izbe-iz keste ortasından baslap kórip shıǵıladı
+elementlerdi kórip shıǵıw izbe-iz túrde basınan aqırıǵa shekem hám kerisinshe, 2 element tastap qaraladı
+binar terek barlıq túyinleri kórip shıǵıladı
+
++++++
+
+Kem ushraytuǵın (noyob) gilt ne
+# eger kestede gilti usı giltga teń maǵlıwmat birden-bir bolsa
+eger eki maǵlıwmat bahaları jıyındısı giltga teń bolsa
+eger kestede bunday giltli element ámeldegi bolmasa
+eger eki maǵlıwmat bahaları ayırmashılıǵı giltga teń bolsa
+
++++++
+
+Izbe-iz izlew algoritm tártibi qanday
+# Sızıqlı
+Logarifmik
+Konstantali
+Eksponensial
+
++++++
+
+Binar izlew algoritm tártibi qanday
+# Logarifmik
+Sızıqlı
+Konstantali
+Eksponensial
+
++++++
+
+Sızıqlı izlew qashan nátiyjeli
+#Massiv hám dizimde
+Dekda
+Terekte
+Náwbette
+
++++++
+
+Izbe-iz yamasa sızıqlı izlew - bul …
+# Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı
+Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı
+Berilgen massiv ortasındaǵı element alınadı, yaǵnıy , hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi
+Funksiya jerdemida xesh-keste toldırıladı hám odan qıdırıladı
+
++++++
+
+Binar izlew - bul …
+# Berilgen massiv ortasındaǵı element alınadı, yaǵnıy , hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi
+Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı
+Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı
+Funksiya jerdemida xesh-keste toltırıladı hám odan izlenedi
+
++++++
+
+Xeshlew - bul …
+# Funksiya jerdemida xesh-keste toltırıladı hám odan izlenedi
+Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı
+Berilgen dızbek ortasındaǵı element alınadı, yaǵnıy, hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi
+Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı
+
++++++
+
+Operativ yadta orınlanatuǵın sortirovkalaw qanday ataladı
+# ishki sortirovkalaw
+tolıq sortirovkalaw
+qosıw arqalı sortirovkalaw
+adresler kestein sortirovkalaw
+
++++++
+
+Sortirovkalaw usılları arasınan nadurısın tabıń.
+# dinamikalıq
+jaqsılanǵan
+Logarifmik
+qatań
+
++++++
+
+Berilgen toplam elementlerin qandayda bir bir tártipte jaylastırıw procesi
+# Sortirovkalaw
+Izlew
+Algoritmlaw
+Stilistika
+
++++++
+
+Sortirovkalaw usılı … dep ataladı, eger sortirovkalaw processinde bir qıylı giltli elementler salıstırmalı jaylasıwı ózgermeytuǵına
+# Turaqlı (stable)
+Quramalı (difficult)
+Ápiwayı (typical)
+Turaqlı emes (unstable)
+
++++++
+
+QuickSort usılınıń algoritm rejimin kórsetiń
+# Logarifmik
+Sızıqlı
+Kvadratik
+Differensial
+
++++++
+
+Sortirovkalaw natiyjeliligin qaysı kriteryalar járdeminde anıqlanadı
+# salıstırıwlashlar hám almastırıwlar sanı
+programma jazıwǵa ketken waqıt
+isletilinip atırǵan identifikatorlar sanı hám túrleri
+ámeller sanı
+
++++++
+
+Qanday sortirovkalaw usılları qatań usıllar dep belgilengen?
+# tuwrıdan-tuwrı qosıw ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+Tez sortirovkalaw; Shella sortirovkalawı; Birlestiriw sortirovkalawı.
+Birlestiriw sortirovkalawı ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+Tez sortirovkalaw, tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+
++++++
+
+Qanday sortirovkalaw usılları jaqsılanǵan usıllar dep belgilengen?
+# Tez sortirovkalaw; Shella sortirovkalawı; Birlestiriw sortirovkalawı.
+tuwrıdan-tuwrı qosıw ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+Birlestiriw sortirovkalawı ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+Tez sortirovkalaw, tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.
+
++++++
+
+Bul atqa iye obiekt bolıp, sol at arqalı ishindegi maǵlıwmatlar menen isleytuǵın obiekt bolıp tabıladı.
+# Fayl
+Katalog
+Yad
+Maǵlıwmat tasıwshı
+
++++++
+
+Fayldı anıqlawshı bir neshe izbe-iz belgiler fayldıń...
+#Ati
+Keńeytpesi
+Atributı
+Jolı
+
++++++
+
+Fayldıń maǵlıwmatlar quramın hám programmalıq támiynatın anıqlawshı kórsetkish
+# Keńeytpe
+At
+Atribut
+Jol
+
+
++++++
+
+Ańlatpanıń bıytlar ústindegi ámel nátiyjesin anıqlań
+#14
+6
+8
+1

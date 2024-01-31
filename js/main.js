@@ -3,6 +3,573 @@ const form = document.querySelector('.form');
 
 const answersDB = () => [
   {
+    quostion: "C++ tilinde maǵlıwmatlardı kiritiw",
+    a: "#cin>>x;",
+    b: "cinx;",
+    c: "cout",
+    d: "answer"
+  },
+  {
+    quostion: "FLOAT túri ushın qaysı ámeller orınlı",
+    a: "#qosıw, alıw, kóbeytiw, bóliw",
+    b: "qosıw, alıw, bóliw, mod",
+    c: "kóbeytiw, alıw, konkatenasiya",
+    d: "qosıw, alıw, div, mod"
+  },
+  {
+    quostion: "Algoritm ne?",
+    a: "#Ámeller izbe-izligi",
+    b: "Fayllarǵa shaqırıq",
+    c: "Obiektler kompleksin ańlatıw",
+    d: "Kóplik elementlerin ańlatıw"
+  },
+  {
+    quostion: "C++ tilinde strukturanı jaratıw ushın isletiletuǵın gilt sózi",
+    a: "# Struct",
+    b: "Structure",
+    c: "Record",
+    d: "Object"
+  },
+  {
+    quostion: "INT túri ushın qaysı ámeller orınlı",
+    a: "#qosıw, alıw, pútin san bolıw, qaldıqlı bólıw",
+    b: "qosıw, alıw, bolıw, mod, konkatenasiya",
+    c: "kóbeytiw, alıw, konkatenasiya",
+    d: "kóbeytiw, alıw, div, konkatenasiya"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturası ne",
+    a: "# bul maǵlıwmat elementleri hám olar arasındaǵı munasábetler kompleksi",
+    b: "bul maǵlıwmat elementleri kompleksi",
+    c: "bul elementler arasındaǵı munasábetler ámeli",
+    d: "bul maǵlıwmat elementleri hám olar arasındaǵı relyasion munasábetler kompleksi"
+  },
+  {
+    quostion: "Qaysı biri true gilt sózine sáykes ma`nisti anıqlaydı?",
+    a: "#1",
+    b: "0",
+    c: "-1",
+    d: "66"
+  },
+  {
+    quostion: "Qaysı biri false sózine sáykes ma`nisti anıqlaydı??",
+    a: "#0",
+    b: "1",
+    c: "-1",
+    d: "66"
+  },
+  {
+    quostion: "Shártli operator if denesi qashan atqarıladı?",
+    a: "# ras (true)",
+    b: "Jalǵan(false)",
+    c: "Bárqulla atqarıladı",
+    d: "Hech qashan atqarılmaydı"
+  },
+  {
+    quostion: "Qaysı gilt sóz pútin sanlı ózgeriwshi tek oń mánisti qabıllawın kórsetedi?",
+    a: "#unsigned",
+    b: "Positive",
+    c: "Extern",
+    d: "Signed"
+  },
+  {
+    quostion: "Massivtıń aqırǵı elemenning tártip nomeri nege teń boladı, eger massiv ólshemi 19 ǵa teń bolsa?",
+    a: "#18",
+    b: "19",
+    c: "tártip nomerin programmist anıqlaydı",
+    d: "tártip nomeri sheksiz boladı"
+  },
+  {
+    quostion: "Maǵlıwmatlardı kompyuter yadında sáwlelendiriw neshe basqıshtan ibarat?",
+    a: "#3",
+    b: "4",
+    c: "5",
+    d: "6"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturası matematikalıq basqıshta...",
+    a: "#konkret obiekttiń qayta islew, olardıń ózgeshelikleri hám munasábetlerin izertlenedi.",
+    b: "kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.",
+    c: "berilgen talaplar boyınsha algoritmdı islep shıǵilıwı izertlenedi.",
+    d: "programmanı jaratıw procesi izertlenedi"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturası logikalıq basqıshta...",
+    a: "#berilgen talaplar boyınsha algoritmdı islep shıǵilıwı izertlenedi.",
+    b: "kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.",
+    c: "konkret obiekttiń qayta islew, olardıń xussusiyatlari hám munasábetlerin izertlenedi.",
+    d: "programmanı jaratıw procesi izertlenedi."
+  },
+  {
+    quostion: "C++ tilinde maǵlıwmatlardı shıǵarıw",
+    a: "#coutx;",
+    b: "cout>>x;",
+    c: "cin",
+    d: "answer"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturası fizikalıq basqıshta...",
+    a: "#Kompyuter yadında maǵlıwmatlardı sáwlelendiriliwi izertlenedi.",
+    b: "konkret obiekttiń qayta islew, olardıń xussusiyatlari hám munasábetlerin izertlenedi.",
+    c: "berilgen studentler boyınsha algoritmdı islep shıǵilıwı izertlenedi.",
+    d: "programmanı jaratıw procesi izertlenedi."
+  },
+  {
+    quostion: "Birdey tipdagi óz-ara tákirarlanbaytuǵın elementlerden ibarat kompeksi",
+    a: "# Kóplik",
+    b: "Massiv",
+    c: "Jazıw",
+    d: "Keste"
+  },
+  {
+    quostion: "Birdey tiptegi elementler kompleksi",
+    a: "# Massiv",
+    b: "Jazıw",
+    c: "Keste",
+    d: "Kóplik"
+  },
+  {
+    quostion: "Túrli tipdagi maǵlıwmatlardan qanday struktura payda etiledi?",
+    a: "# Jazıw",
+    b: "Massiv",
+    c: "Kóplik",
+    d: "Keste"
+  },
+  {
+    quostion: "Túrli tipdagi maǵlıwmat maydanlardan ibarat tártipli strukturası",
+    a: "# Keste",
+    b: "Massiv",
+    c: "Jazıw",
+    d: "Kóplik"
+  },
+  {
+    quostion: "Yadtı dinamikalıq ajratiw uchın gilt sózdi kórsetiń",
+    a: "#New",
+    b: "Create",
+    c: "Make",
+    d: "Value"
+  },
+  {
+    quostion: "Dinamik yadtı bosatiw ushun gilt so’zdi kórsetiń",
+    a: "#Delete",
+    b: "Clear",
+    c: "Free",
+    d: "Cls"
+  },
+  {
+    quostion: "kórinisinde massiv járiyalanǵanda, onıń jetinshi elementine shaqırıw qalay ámelge asıriladı?",
+    a: "#mas[6];",
+    b: "mas[7];",
+    c: "mas(7);",
+    d: "mas(6);"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturaları baylanısıwına kóre tómendegishe klassifikasiyalanadi",
+    a: "# Baylamlı hám baylamsız",
+    b: "Statikalıq, yarımstatikliq hám dinamikalıq",
+    c: "Sızıqlı hám sızıqli emes",
+    d: "Ápiwayı hám quramalı"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturaları waqıt ózgeriwsheńligi yamasa programma atqarılıwı procesine kóre tómendegishe klassifikasiyalanadi",
+    a: "# Statikalıq, yarımstatikliq hám dinamikalıq",
+    b: "Sızıqlı hám sızıqlı emes",
+    c: "Baylamlı hám baylamsız",
+    d: "Ápiwayı hám quramalı"
+  },
+  {
+    quostion: "Maǵlıwmatlar strukturaları rejimine kóre tómendegishe klassifikasiyalanadi",
+    a: "# Sızıqlı hám sızıqsız",
+    b: "Statikalıq, yarımstatikalıq hám dinamikalıq",
+    c: "Baylamlı hám baylamsız",
+    d: "Ápiwayı hám quramalı"
+  },
+  {
+    quostion: "Programma orınlanıw processinde yad kolemi birdey bolǵan ápiwayı hám tiykarǵı struktura jıynaqlarına... dep ataladı.",
+    a: "# Statikalıq maǵlıwmatlar strukturası",
+    b: "Dinamikalıq maǵlıwmatlar strukturası",
+    c: "Yarımstatik maǵlıwmatlar strukturası",
+    d: "Rekursiv maǵlıwmatlar strukturası"
+  },
+  {
+    quostion: "Ańlatpanıń bıytlar ústindegi ámel nátiyjesin anıqlań",
+    a: "#8",
+    b: "6",
+    c: "14",
+    d: "1"
+  },
+  {
+    quostion: "Stek strukturasında qanday xizmat kórsetiw túri qollaniladi?",
+    a: "#LIFO",
+    b: "FIFO",
+    c: "FILO",
+    d: "LILO"
+  },
+  {
+    quostion: "Nawbet strukturasinda qanday xizmet ko’rsetiw tu’ri qollaniladi?",
+    a: "#FIFO",
+    b: "LIFO",
+    c: "FILO",
+    d: "LILO"
+  },
+  {
+    quostion: "Stekqa jan’a element qosiw funksiyasi qanday belgilenedi",
+    a: "#Push",
+    b: "Pop",
+    c: "Top",
+    d: "Empty"
+  },
+  {
+    quostion: "Stekdan joqarı elementin óshiriw funksiyası qanday belgilenedi",
+    a: "#Pop",
+    b: "Push",
+    c: "Top",
+    d: "Empty"
+  },
+  {
+    quostion: "Yarımstatik maǵlıwmatlar strukturasına neler kiredi?",
+    a: "#Stek, Dek, Nawbet",
+    b: "Stek, Massiv",
+    c: "Graf. Vektor",
+    d: "String, Keste"
+  },
+  {
+    quostion: "Listti massivten artiqmashliǵin kórsetiń",
+    a: "#Listtin’ uzinlig’ina shegara belgilenbeydi",
+    b: "Olar arasinda sezilarli parq joq",
+    c: "List elementleri tu’rli tipte boliwi mu’mkin",
+    d: "List elementleri int tipinde boliwi kerek"
+  },
+  {
+    quostion: "Programma atqarılıw processinde yad kolemi anıqlanǵan yamasa olardıń sanı málim bolǵan struktura ... dep ataladı.",
+    a: "#Dinamikalıq maǵlıwmatlar strukturası",
+    b: "Statikalıq maǵlıwmatlar strukturası",
+    c: "Yarımstatik maǵlıwmatlar strukturası",
+    d: "Rekursiv maǵlıwmatlar strukturası"
+  },
+  {
+    quostion: "Ańlatpanıń bitlar ústindegi ámel nátiyjesin anıqlań",
+    a: "#6",
+    b: "14",
+    c: "8",
+    d: "1"
+  },
+  {
+    quostion: "Programma fragmentiniń nátiyjesin anıqlań :",
+    a: "#6",
+    b: "10",
+    c: "0",
+    d: "250"
+  },
+  {
+    quostion: "Programma fragmentiniń nátiyjesin anıqlań :",
+    a: "#1000",
+    b: "10",
+    c: "0",
+    d: "250"
+  },
+  {
+    quostion: "Programma fragmentiniń nátiyjesin anıqlań:",
+    a: "#12",
+    b: "13,2",
+    c: "1,47",
+    d: "1"
+  },
+  {
+    quostion: "Programma fragmentiniń nátiyjesin anıqlań:",
+    a: "#13,2",
+    b: "12",
+    c: "1,47",
+    d: "1"
+  },
+  {
+    quostion: "Programma atqarılıw processinde yad ko’lemi statikalıq belgilenedi hám deskriptor-kórsetkish arqalı paydalanılǵan struktura toplamina... dep ataladı.",
+    a: "#Yarımstatik maǵlıwmatlar strukturası",
+    b: "Statikalıq maǵlıwmatlar strukturası",
+    c: "Dinamikalıq maǵlıwmatlar strukturası",
+    d: "Rekursiv maǵlıwmatlar strukturası"
+  },
+  {
+    quostion: "Stek bul ...",
+    a: "#Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń bir tárepinen ámelge asıriladı",
+    b: "Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi",
+    c: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı",
+    d: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı"
+  },
+  {
+    quostion: "Na’wbet bu...",
+    a: "#Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi",
+    b: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń bir tárepinen ámelge asıriladı",
+    c: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı",
+    d: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı"
+  },
+  {
+    quostion: "Dek bul ...",
+    a: "#Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń eki ta’repi arqali ámelge asıriladı",
+    b: "Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi",
+    c: "Ol sonday struktura bolip, olda elementler qosiliwi menen ken’eyip baradi ha’m elementlerdi tek g’ana bir ta’repten qabil qiladi",
+    d: "Sızıqlı maǵlıwmatlar strukturası bolıp, maǵlıwmatlardı kirgiziw hám shıǵarıw onıń tek ortası arqali ámelge asıriladı"
+  },
+  {
+    quostion: "Qanday gilt sózi járdeminde nol silteme (bos mánzil) belgilenedi",
+    a: "#NULL",
+    b: "NaN",
+    c: "ERROR",
+    d: "EMP"
+  },
+  {
+    quostion: "Bir baylamlı dizimde neshe kórsetkishten paydalanıladı",
+    a: "#1",
+    b: "2",
+    c: "3",
+    d: "4"
+  },
+  {
+    quostion: "Eki baylamlı dizimde neshe kórsetkishten paydalanıladı",
+    a: "#2",
+    b: "1",
+    c: "3",
+    d: "4"
+  },
+  {
+    quostion: "Bir baylamlı dizimlerde Next kórsetkishi ne ushın isletiledi",
+    a: "#Keyingi elementti kórsetiw ushın",
+    b: "Aldınǵı elementti kórsetiw ushın",
+    c: "Dizimdiń basın kórsetiw ushın",
+    d: "Dizimdiń aqırın kórsetiw ushın"
+  },
+  {
+    quostion: "Eki baylamlı dizimlerde Next hám Prev kórsetkishleri ne ushın isletiledi",
+    a: "#Keyingi hám aldınǵı elementlerin kórsetiw ushın",
+    b: "Tek aldınǵı hám odan keyingi elementlerin kórsetiw ushın",
+    c: "Dizimdiń basın kórsetiw ushın",
+    d: "Dizimdiń aqırın kórsetiw ushın"
+  },
+  {
+    quostion: "Shen’ber ta’rizli eki jónelisli dizimde qaysı jónelisler boyınsha háreketleniw múmkin?",
+    a: "#Eki ta’repleme",
+    b: "Shepke",
+    c: "On’g’a",
+    d: "Dizim aqirina"
+  },
+  {
+    quostion: "… - obyektti usı obiektke shaqırıw arqalı anıqlaw bolıp tabıladı.",
+    a: "#Rekursiya",
+    b: "Algoritm",
+    c: "Programma",
+    d: "Struktura"
+  },
+  {
+    quostion: "Minimal biyiklikke iye terek",
+    a: "#HEAP TREE",
+    b: "BINARY TREE",
+    c: "Red Black Tree",
+    d: "2-3 TREE"
+  },
+  {
+    quostion: "Terek qanday ataladı, eger onıń shıǵıw dárejesi ekiden aspasa.",
+    a: "#Binar",
+    b: "Ternar",
+    c: "Tetradli",
+    d: "Kópqatlamlı"
+  },
+  {
+    quostion: "Kompyuter yadında binar terekti qanday kóriniste sawlelendiriw qolay",
+    a: "#baylanǵan sızıqsız dizimler",
+    b: "Massivler",
+    c: "Kesteler",
+    d: "baylanǵan sızıqlı dizimler"
+  },
+  {
+    quostion: "Terek uzunlıǵı – bul ...",
+    a: "# túyinler sanı",
+    b: "terek basqıshları sanı",
+    c: "aralıq elementleri sanı",
+    d: "japıraqlar sanı"
+  },
+  {
+    quostion: "Sıziqlı emes iyerarxik baylanǵan maǵlıwmatlar strukturası – bul …",
+    a: "#Terek",
+    b: "Graf",
+    c: "Sózlik",
+    d: "Dizim"
+  },
+  {
+    quostion: "35, 27, 5,78, 29, 43 Sanlarınan payda etilgen binar terek bálentligi neshege teń",
+    a: "#3",
+    b: "4",
+    c: "2",
+    d: "1"
+  },
+  {
+    quostion: "Qandayda bir túyinnen basqa bir túyinge shekem bolg’an qasında jaylasqan túyinler izbe-izligi bolıp tabıladı bul -... dep ataladı.",
+    a: "#Jol",
+    b: "Dońgelek",
+    c: "ilmek (petley)",
+    d: "Dáreje"
+  },
+  {
+    quostion: "... – bul bası hám aqırı tutasıwshı túyinnen ibarat jol.",
+    a: "#Dońgelek",
+    b: "Jol",
+    c: "Ilmek (petley)",
+    d: "Dáreje"
+  },
+  {
+    quostion: "Izlewdıń wazıypası neden ibarat",
+    a: "# berilgen argumentga saykes keliwshi maǵlıwmatlardı massiv ishinen tabıw",
+    b: "massivte maǵlıwmat joq ekenligin anıqlaw",
+    c: "maǵlıwmatlar járdeminde argumentni tabıw",
+    d: "maǵlıwmat járdeminde eń kishi elementti tabıw"
+  },
+  {
+    quostion: "Berilgen argumentga sáykes keliwshi maǵlıwmatlardı massiv ishinen tabıw",
+    a: "# Izlew",
+    b: "Sotrirovkalaw",
+    c: "Algoritmlaw",
+    d: "Stilistika"
+  },
+  {
+    quostion: "Sızıqlı izlew ideyası neden ibarat",
+    a: "# hár bir element izbe-iz kórip shıǵıladı",
+    b: "elementler izbe-iz keste ortasından baslap kórip shıǵıladı",
+    c: "elementlerdi kórip shıǵıw izbe-iz túrde basınan aqırıǵa shekem hám kerisinshe, 2 element tastap qaraladı",
+    d: "binar terek barlıq túyinleri kórip shıǵıladı"
+  },
+  {
+    quostion: "Kem ushraytuǵın (noyob) gilt ne",
+    a: "# eger kestede gilti usı giltga teń maǵlıwmat birden-bir bolsa",
+    b: "eger eki maǵlıwmat bahaları jıyındısı giltga teń bolsa",
+    c: "eger kestede bunday giltli element ámeldegi bolmasa",
+    d: "eger eki maǵlıwmat bahaları ayırmashılıǵı giltga teń bolsa"
+  },
+  {
+    quostion: "Izbe-iz izlew algoritm tártibi qanday",
+    a: "# Sızıqlı",
+    b: "Logarifmik",
+    c: "Konstantali",
+    d: "Eksponensial"
+  },
+  {
+    quostion: "Binar izlew algoritm tártibi qanday",
+    a: "# Logarifmik",
+    b: "Sızıqlı",
+    c: "Konstantali",
+    d: "Eksponensial"
+  },
+  {
+    quostion: "Sızıqlı izlew qashan nátiyjeli",
+    a: "#Massiv hám dizimde",
+    b: "Dekda",
+    c: "Terekte",
+    d: "Náwbette"
+  },
+  {
+    quostion: "Izbe-iz yamasa sızıqlı izlew - bul …",
+    a: "# Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı",
+    b: "Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı",
+    c: "Berilgen massiv ortasındaǵı element alınadı, yaǵnıy , hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi",
+    d: "Funksiya jerdemida xesh-keste toldırıladı hám odan qıdırıladı"
+  },
+  {
+    quostion: "Binar izlew - bul …",
+    a: "# Berilgen massiv ortasındaǵı element alınadı, yaǵnıy , hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi",
+    b: "Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı",
+    c: "Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı",
+    d: "Funksiya jerdemida xesh-keste toltırıladı hám odan izlenedi"
+  },
+  {
+    quostion: "Xeshlew - bul …",
+    a: "# Funksiya jerdemida xesh-keste toltırıladı hám odan izlenedi",
+    b: "Maǵlıwmatlar pútkil keste boyınsha operativ yadta kishi adresten baslap, tap úlken adresge shekem izbe-iz qaray shıǵıladı",
+    c: "Berilgen dızbek ortasındaǵı element alınadı, yaǵnıy, hám ol izlew argumenti menen salıstırıwlanadı. Tabılmasa shegaralar sáykes túrde ózgertiriledi",
+    d: "Indeksler kesteinen gruppa tabıladı, hám ol jaǵdayda kórsetilgen sáykes shegaralarda sızıqlı algoritm asıriladı"
+  },
+  {
+    quostion: "Operativ yadta orınlanatuǵın sortirovkalaw qanday ataladı",
+    a: "# ishki sortirovkalaw",
+    b: "tolıq sortirovkalaw",
+    c: "qosıw arqalı sortirovkalaw",
+    d: "adresler kestein sortirovkalaw"
+  },
+  {
+    quostion: "Sortirovkalaw usılları arasınan nadurısın tabıń.",
+    a: "# dinamikalıq",
+    b: "jaqsılanǵan",
+    c: "Logarifmik",
+    d: "qatań"
+  },
+  {
+    quostion: "Berilgen toplam elementlerin qandayda bir bir tártipte jaylastırıw procesi",
+    a: "# Sortirovkalaw",
+    b: "Izlew",
+    c: "Algoritmlaw",
+    d: "Stilistika"
+  },
+  {
+    quostion: "Sortirovkalaw usılı … dep ataladı, eger sortirovkalaw processinde bir qıylı giltli elementler salıstırmalı jaylasıwı ózgermeytuǵına",
+    a: "# Turaqlı (stable)",
+    b: "Quramalı (difficult)",
+    c: "Ápiwayı (typical)",
+    d: "Turaqlı emes (unstable)"
+  },
+  {
+    quostion: "QuickSort usılınıń algoritm rejimin kórsetiń",
+    a: "# Logarifmik",
+    b: "Sızıqlı",
+    c: "Kvadratik",
+    d: "Differensial"
+  },
+  {
+    quostion: "Sortirovkalaw natiyjeliligin qaysı kriteryalar járdeminde anıqlanadı",
+    a: "# salıstırıwlashlar hám almastırıwlar sanı",
+    b: "programma jazıwǵa ketken waqıt",
+    c: "isletilinip atırǵan identifikatorlar sanı hám túrleri",
+    d: "ámeller sanı"
+  },
+  {
+    quostion: "Qanday sortirovkalaw usılları qatań usıllar dep belgilengen?",
+    a: "# tuwrıdan-tuwrı qosıw ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.",
+    b: "Tez sortirovkalaw; Shella sortirovkalawı; Birlestiriw sortirovkalawı.",
+    c: "Birlestiriw sortirovkalawı ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.",
+    d: "Tez sortirovkalaw, tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw."
+  },
+  {
+    quostion: "Qanday sortirovkalaw usılları jaqsılanǵan usıllar dep belgilengen?",
+    a: "# Tez sortirovkalaw; Shella sortirovkalawı; Birlestiriw sortirovkalawı.",
+    b: "tuwrıdan-tuwrı qosıw ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.",
+    c: "Birlestiriw sortirovkalawı ; tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw.",
+    d: "Tez sortirovkalaw, tuwrıdan-tuwrı tańlaw ; tuwrıdan-tuwrı almastırıw."
+  },
+  {
+    quostion: "Bul atqa iye obiekt bolıp, sol at arqalı ishindegi maǵlıwmatlar menen isleytuǵın obiekt bolıp tabıladı.",
+    a: "# Fayl",
+    b: "Katalog",
+    c: "Yad",
+    d: "Maǵlıwmat tasıwshı"
+  },
+  {
+    quostion: "Fayldı anıqlawshı bir neshe izbe-iz belgiler fayldıń...",
+    a: "#Ati",
+    b: "Keńeytpesi",
+    c: "Atributı",
+    d: "Jolı"
+  },
+  {
+    quostion: "Fayldıń maǵlıwmatlar quramın hám programmalıq támiynatın anıqlawshı kórsetkish",
+    a: "# Keńeytpe",
+    b: "At",
+    c: "Atribut",
+    d: "Jol"
+  },
+  {
+    quostion: "Ańlatpanıń bıytlar ústindegi ámel nátiyjesin anıqlań",
+    a: "#14",
+    b: "6",
+    c: "8",
+    d: "1"
+  },
+  {
     quostion: "Bir xil tipdagi elementlar majmuasi",
     a: "#Massiv",
     b: "Yozuv",
@@ -1943,7 +2510,7 @@ function headerContent() {
   span.classList.add('answer')
 
   span.innerHTML = `
-    <a href="file/tazasi.txt" class="answer__link" target="_blank">Javoblar
+    <a href="file/novaya.txt" class="answer__link" target="_blank">Javoblar
     </a>
   `
   elAnswerContent.appendChild(span)
